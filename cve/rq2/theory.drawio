@@ -1,0 +1,256 @@
+<mxfile host="app.diagrams.net" modified="2023-12-18T00:35:24.701Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="_r9s1MdZgqqkoWNHSpyW" version="21.7.1" type="device">
+  <diagram name="第 1 页" id="jVqefSE96U0mFwxC09_H">
+    <mxGraphModel dx="1786" dy="751" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-1" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="-226" y="120" width="1096" height="527" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-2" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=90;labelBackgroundColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="-249.75" y="203.25" width="479.5" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-3" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=90;labelBackgroundColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="94.63" y="239.63" width="478.75" height="288" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-4" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rotation=90;labelBackgroundColor=none;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="423.25" y="215.75" width="477.5" height="337" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-8" value="" style="group;labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-40" y="1030" width="90" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-6" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;strokeWidth=2;labelBackgroundColor=none;" parent="YCGw6AnBpp4GEaBpjBth-8" vertex="1">
+          <mxGeometry width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-13" value="" style="group;labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-30" y="1100" width="73" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-10" value="&lt;b&gt;YAML Manifest&lt;/b&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;labelBackgroundColor=none;" parent="YCGw6AnBpp4GEaBpjBth-13" vertex="1">
+          <mxGeometry width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-11" value="&lt;b&gt;YAML Manifest&lt;/b&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;labelBackgroundColor=none;" parent="YCGw6AnBpp4GEaBpjBth-13" vertex="1">
+          <mxGeometry x="10" y="10" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-12" value="&lt;b&gt;YAML Manifest&lt;/b&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;labelBackgroundColor=none;" parent="YCGw6AnBpp4GEaBpjBth-13" vertex="1">
+          <mxGeometry x="20" y="20" width="53" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Helm Chart&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-32.5" y="1000" width="82.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.002;entryY=0.46;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="YCGw6AnBpp4GEaBpjBth-6" target="YCGw6AnBpp4GEaBpjBth-15" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="1080" as="sourcePoint" />
+            <mxPoint x="240" y="1080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-24" value="" style="group;labelBackgroundColor=none;" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="110" y="990" width="412" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-15" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;" parent="YCGw6AnBpp4GEaBpjBth-24" vertex="1">
+          <mxGeometry width="390" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-17" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Kubernetes API&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" parent="YCGw6AnBpp4GEaBpjBth-24" vertex="1">
+          <mxGeometry x="17.53191489361702" y="65" width="87.65957446808511" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-19" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;labelBackgroundColor=none;fontColor=default;" parent="YCGw6AnBpp4GEaBpjBth-24" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="104" y="95" as="sourcePoint" />
+            <mxPoint x="166.55319148936172" y="95" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-22" value="" style="html=1;whiteSpace=wrap;strokeColor=none;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;shape=mxgraph.sitemap.services;labelBackgroundColor=none;" parent="YCGw6AnBpp4GEaBpjBth-24" vertex="1">
+          <mxGeometry x="201.61702127659575" y="110" width="87.65957446808511" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-23" value="Databases" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/heroicons-ui/24/database-128.png;imageBorder=none;" parent="YCGw6AnBpp4GEaBpjBth-24" vertex="1">
+          <mxGeometry x="166.55319148936172" y="6" width="69.25106382978724" height="69.25106382978724" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-26" value="Generic User Applications" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" parent="YCGw6AnBpp4GEaBpjBth-24" vertex="1">
+          <mxGeometry x="206.0040425531915" y="165" width="96.42553191489363" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-21" value="Reusable Resources" style="outlineConnect=0;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;pointerEvents=1;shape=mxgraph.aws4.key_management_service_external_key_store;labelBackgroundColor=none;aspect=fixed;" parent="YCGw6AnBpp4GEaBpjBth-24" vertex="1">
+          <mxGeometry x="266.00276595744685" y="6" width="70.12765957446808" height="70.12765957446808" as="geometry" />
+        </mxCell>
+        <mxCell id="YBvIg2viPw8SJe-gvhdY-3" value="" style="html=1;whiteSpace=wrap;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.services;" parent="YCGw6AnBpp4GEaBpjBth-24" vertex="1">
+          <mxGeometry x="213.01680851063833" y="110" width="78.8936170212766" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YBvIg2viPw8SJe-gvhdY-4" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.redshift;fillColor=#2E73B8;gradientColor=none;" parent="YCGw6AnBpp4GEaBpjBth-24" vertex="1">
+          <mxGeometry x="273.89" y="13" width="56.1" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-16" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;labelBackgroundColor=none;fontColor=default;exitX=0.066;exitY=0.06;exitDx=0;exitDy=0;exitPerimeter=0;" parent="YCGw6AnBpp4GEaBpjBth-24" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="119.99999999999989" y="200" as="sourcePoint" />
+            <mxPoint x="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-28" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;(A) Open Coding&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-81" y="147.63" width="142" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-29" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;(B) Axial Coding&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="262" y="147.63" width="144" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-30" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;(C) Selective Coding&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="579.25" y="149.75" width="165.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-31" value="Official Helm Maintenance Repositories (90 GitHub repositories)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-171" y="230.5" width="155" height="111.5" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-33" value="&lt;h1&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;12 Mitigation Strategies&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-90" y="576.5" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-34" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.463;entryY=-0.029;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="YCGw6AnBpp4GEaBpjBth-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-2" y="226" as="sourcePoint" />
+            <mxPoint x="-2" y="567" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-36" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;strokeWidth=3;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="394" as="sourcePoint" />
+            <mxPoint x="200" y="394" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-38" value="[S01]&amp;nbsp;Manual version bump on CVE report" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=0;verticalAlign=middle;horizontal=1;" parent="1" vertex="1">
+          <mxGeometry x="9" y="250" width="145" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-39" value="&lt;h1&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;3 Strategy Categories&lt;/font&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="237" y="576.5" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-40" value="&lt;h1&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;3 Key Concepts and 1 Theory&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" parent="1" vertex="1">
+          <mxGeometry x="545.5" y="576.5" width="233" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-42" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;strokeWidth=3;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="465.5" y="394" as="sourcePoint" />
+            <mxPoint x="505.5" y="394" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-43" value="[S02] Patch application configuration" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=0;verticalAlign=middle;horizontal=1;" parent="1" vertex="1">
+          <mxGeometry x="9" y="293" width="145" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-44" value="[S03] Switch to another image variant" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;horizontal=1;" parent="1" vertex="1">
+          <mxGeometry x="9" y="337" width="145" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-45" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;[S04] Customize base OS image&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=0;verticalAlign=middle;horizontal=1;" parent="1" vertex="1">
+          <mxGeometry x="9" y="380" width="145" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-46" value="[S05] Minimize functionality for attack surface" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=0;verticalAlign=middle;horizontal=1;" parent="1" vertex="1">
+          <mxGeometry x="9" y="423" width="145" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-47" value="[S06] Enforce the use of image digest instead of tag" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontStyle=0;verticalAlign=middle;horizontal=1;" parent="1" vertex="1">
+          <mxGeometry x="9" y="477" width="145" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-67" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-163.5" y="370" width="151" height="182" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-51" value="DS1: Repository metadata" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="YCGw6AnBpp4GEaBpjBth-67" vertex="1">
+          <mxGeometry width="140.5" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-53" value="DS2: Issues, pull requests and discussions" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="YCGw6AnBpp4GEaBpjBth-67" vertex="1">
+          <mxGeometry y="31" width="137.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-55" value="DS3: Security advisory tab" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="YCGw6AnBpp4GEaBpjBth-67" vertex="1">
+          <mxGeometry y="66" width="127" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-57" value="DS4: Automation" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="YCGw6AnBpp4GEaBpjBth-67" vertex="1">
+          <mxGeometry y="90" width="127" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-59" value="DS5: Code Changes (Commits)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="YCGw6AnBpp4GEaBpjBth-67" vertex="1">
+          <mxGeometry y="120" width="127" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-60" value="DS6: Changelogs" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="YCGw6AnBpp4GEaBpjBth-67" vertex="1">
+          <mxGeometry y="157" width="127" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-66" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;dashed=1;fillColor=none;" parent="YCGw6AnBpp4GEaBpjBth-67" vertex="1">
+          <mxGeometry x="-14" y="-10" width="165" height="192" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-50" value="" style="image;html=1;image=img/lib/clip_art/computers/Data_Filtering_128x128.png" parent="YCGw6AnBpp4GEaBpjBth-67" vertex="1">
+          <mxGeometry x="105.5" y="-10" width="45.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-68" value="&lt;h1 style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Ad-hoc Strategies&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;div style=&quot;&quot;&gt;Action that requires significant manual work in&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;order to prevent, detect and mitigate the impact of CVEs.&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="202" y="220" width="264" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-69" value="&lt;h1 style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Incentive&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;A lack of incentive to mitigate CVEs due to unclear boundaries of responsibilities and thus violating the principle of shifting security to left.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="508" y="370" width="267" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-76" value="&lt;h1 style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Trade-off&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;Stability vs security;&amp;nbsp;Maintenance effort vs security&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="508" y="442" width="267" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-77" value="&lt;h1 style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Trust&lt;/font&gt;&lt;/h1&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;Trust between users and maintainers&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;Trust between maintainers and dependency maintainers&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="507.5" y="501" width="267.5" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-80" value="&lt;h1 style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Automated Strategies&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;Action that does not require manual participation beyond the review of pull requests (to approve the actions)&lt;br&gt;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="202" y="312" width="264" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-82" value="&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot; style=&quot;box-sizing: border-box; color: transparent; cursor: text; position: absolute; transform-origin: 0px 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; left: 264.554px; top: 717.622px; font-size: 12.4916px; font-family: serif; transform: scaleX(0.948266);&quot;&gt; an action that does not require manual partici-&lt;/span&gt;&lt;br role=&quot;presentation&quot; style=&quot;box-sizing: border-box; color: transparent; cursor: text; position: absolute; transform-origin: 0px 0px; font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot; style=&quot;box-sizing: border-box; color: transparent; cursor: text; position: absolute; transform-origin: 0px 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; left: 120.048px; top: 744.197px; font-size: 12.4916px; font-family: serif; transform: scaleX(0.919902);&quot;&gt;pation beyond the review of pull requests (to approve the actions).&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="409.3333333333335" y="55.83333333333337" width="28" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-83" value="&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot; style=&quot;box-sizing: border-box; color: transparent; cursor: text; position: absolute; transform-origin: 0px 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; left: 264.554px; top: 717.622px; font-size: 12.4916px; font-family: serif; transform: scaleX(0.948266);&quot;&gt; an action that does not require manual partici-&lt;/span&gt;&lt;br role=&quot;presentation&quot; style=&quot;box-sizing: border-box; color: transparent; cursor: text; position: absolute; transform-origin: 0px 0px; font-family: Lato, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot; style=&quot;box-sizing: border-box; color: transparent; cursor: text; position: absolute; transform-origin: 0px 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; left: 120.048px; top: 744.197px; font-size: 12.4916px; font-family: serif; transform: scaleX(0.919902);&quot;&gt;pation beyond the review of pull requests (to approve the actions).&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="339.0033333333335" y="26.003333333333373" width="28" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-84" value="&lt;h1 style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Informative Strategies&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;Action that is purely informative with the purpose of informing practitioners on the CVEs (mitigation and awareness)&lt;br&gt;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="202" y="402" width="264" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-85" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/documents.svg;" parent="1" vertex="1">
+          <mxGeometry x="214" y="496" width="33" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-86" value="&lt;b&gt;Memos: Observations &amp;amp; Maintainer Stance&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="263.5" y="508.5" width="174.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-27" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Service Mesh Cluster&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="214" y="1190" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-73" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=default;verticalAlign=top;strokeWidth=2;shadow=0;dashed=0;shape=mxgraph.ios7.icons.document;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="508" y="220" width="269" height="147" as="geometry" />
+        </mxCell>
+        <mxCell id="YCGw6AnBpp4GEaBpjBth-71" value="&lt;p&gt;&lt;span style=&quot;background-color: initial; font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;The high number of unfixed CVEs in Helm Charts arises from unclear responsibilities, trade-offs between stability and security, and trust issues among all stakeholders. Shared responsibility and clear guidelines are needed to shift security to the &quot;left&quot;.&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="517.24" y="250" width="249.51" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="5a9mpseeuSS4OuYq0NdO-4" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-286" y="8" width="64" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="5a9mpseeuSS4OuYq0NdO-5" value="&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Codes&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-132" y="179.75" width="77" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="5a9mpseeuSS4OuYq0NdO-6" value="&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Strategies&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="43" y="179.75" width="77" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="5a9mpseeuSS4OuYq0NdO-7" value="&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Categories&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="179.75" width="77" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="5a9mpseeuSS4OuYq0NdO-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5a9mpseeuSS4OuYq0NdO-8" target="5a9mpseeuSS4OuYq0NdO-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5a9mpseeuSS4OuYq0NdO-8" value="Maintainer &amp;amp; User interactions" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="207" y="177.63" width="104" height="40.25" as="geometry" />
+        </mxCell>
+        <mxCell id="5a9mpseeuSS4OuYq0NdO-9" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5a9mpseeuSS4OuYq0NdO-5" target="5a9mpseeuSS4OuYq0NdO-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="404" as="sourcePoint" />
+            <mxPoint x="210" y="404" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5a9mpseeuSS4OuYq0NdO-10" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5a9mpseeuSS4OuYq0NdO-6" target="5a9mpseeuSS4OuYq0NdO-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-45" y="208" as="sourcePoint" />
+            <mxPoint x="53" y="208" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5a9mpseeuSS4OuYq0NdO-12" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5a9mpseeuSS4OuYq0NdO-8" target="5a9mpseeuSS4OuYq0NdO-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="208" as="sourcePoint" />
+            <mxPoint x="217" y="208" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5a9mpseeuSS4OuYq0NdO-13" value="&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Concepts&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="434" y="304" width="77" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="5a9mpseeuSS4OuYq0NdO-14" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5a9mpseeuSS4OuYq0NdO-7" target="5a9mpseeuSS4OuYq0NdO-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="321" y="208" as="sourcePoint" />
+            <mxPoint x="380" y="208" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

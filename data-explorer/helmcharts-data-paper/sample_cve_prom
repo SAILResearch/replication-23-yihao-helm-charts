@@ -1,0 +1,38 @@
+{
+    "docker.io/grafana/grafana:9.5.1": {
+        "Results": [
+            {
+                "Type": "alpine",
+                "Class": "os-pkgs",
+                "Target": "docker.io/grafana/grafana:9.5.1 (alpine 3.17.3)",
+                "Packages": [
+                    ...
+                ],
+                "Vulnerabilities": [
+                    {
+                        "CVSS": {...},
+                        "Layer": {...},
+                        "PkgID": "libcrypto3@3.0.8-r3",
+                        "Title": "Input buffer over-read in AES-XTS implementation on 64 bit ARM",
+                        "CweIDs": [...],
+                        "PkgName": "libcrypto3",
+                        "Severity": "MEDIUM",
+                        "DataSource": {...},
+                        "PrimaryURL": "https://avd.aquasec.com/nvd/cve-2023-1255",
+                        "References": [...],
+                        "Description": "...",
+                        "FixedVersion": "3.0.8-r4",
+                        "PublishedDate": "2023-04-20T17:15:00Z",
+                        "SeveritySource": "nvd",
+                        "VulnerabilityID": "CVE-2023-1255",
+                        "InstalledVersion": "3.0.8-r3",
+                        "LastModifiedDate": "2023-05-02T16:42:00Z"
+                    },
+                    ...
+                ]
+            },
+            ...
+        ]
+    },
+    ...
+}
