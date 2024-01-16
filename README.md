@@ -12,3 +12,12 @@ Actual database is large (8GB) and stored in a sqlite database, it will be open-
 The data explorer folder scripts can be used to reconstruct the sqlite database since core data is available in a pickled form.
 
 The constructed database should be named `cve2023.sqlite` and placed in the cve folder.
+
+## Get started
+
+To run and reproduce the paper metrics, first we need to download the cve2023.sqlite original data from the cloud provider.
+
+1. Run poetry install to install the required dependencies.
+2. Run correspoding python script in the RQ1 and RQ2 folder to reproduce the metrics in the paper.
+
+Note: some scripts may need manual adjustments to uncomment some operations (i.e., alternative aggregations and persistence to database).
